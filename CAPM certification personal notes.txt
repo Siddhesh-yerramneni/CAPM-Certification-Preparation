@@ -1,0 +1,386 @@
+CAPM CERTIFICATION PREPARATION
+
+WHAT IS A PROJECT?
+A temporary endeavor that produces a unique product, service, or result.
+Temporary in nature and has a definite begining and ending
+Can be a part of large program or potfolio.
+
+WHAT IS PROJECT MANAGEMENT?
+Application of knowledge, skills, tools and techniques to satisfy project requirements.
+-> Preparing a business case to justify the investment
+-> Estimating resources and time.
+-> Developing and implementing a management plan for the project.
+-> Leading and motivating the project delivery team.
+-> Managing the risks, issues and changes on the project.
+-> Monitoring progress against a plan.
+-> Closing the project in a controlled fashion when appropriate.
+
+WHAT IS PROGRAM MANAGEMENT?
+Group of related projects managed in a coordinated way to obtain benefits and control not
+available from managing together.
+-> Must be some value addition in managing them together as a program.
+-> A project may or may not be a part of program but a program would always have projects.
+-> Focuses on the project interdependencies and helps to determine the optimal approach 
+   for managing them.
+
+WHAT IS A PORTFOLIO MANAGEMENT?
+A portfolio is a collection of projects, programs, subsidary portfolios, and operations
+managed as a group to achieve strategic objectives.
+-> collections of projects, programs, subsidary portfolios.
+-> Achieve long term objectives.
+
+OPERATIONS MANAGEMENT
+-> Deals with the ongoing production of goods/or services.
+-> Considers the aquisition, development, and utilization of resources that firms need to
+deliver the goods and services.
+
+WHAT IS THE VALUE OF THE PROJECT?
+What values would this project bring to the company upon completion?
+Why should a project be undertaken?
+Money, brand reputation, customer service, new or change product or service.
+
+PROJECTS ENABLING CHANGES
+Project can be a vehicle for change in an organization. It takes a company from a 
+current state to desire state.
+
+PHASES VS DELIVERABLES
+A phase is a collection of logically related project activities that culminates in the
+completion of one or more deliverables. #phases depends on the industry type, size
+and complexity of the project.
+A deliverable is any unique and verifiable product, service or result. It could be tangible
+or intangible. Must e accepted by the customer or sponsor for the phase.
+
+PROJECT LIFE CYCLE
+A representation of phases that a project typically goes through from start to finish.
+Can be either predictive or adaptive. A project life cycle is made by the project manager.
+
+PROECT GOVERNANCE
+Project governance is a framework within which project decisions are made. Three pillars for
+project givernance are structure, people and information.
+
+STAKEHOLDERS
+Individuals, group or organization that may affect, e affected = or percieve to be 
+affected by the project. Key stakeholders usually are project manager, customer, team
+project sponsor and functional manager.
+
+ROLES OF A PROJECT MANAGER
+-> INITIATOR : An initator is someone who takes the first step 
+or proposes an idea or action.
+-> Negotiator : A negotiator is an individual who engages in discussions or formal negotiations
+		to reach mutually agreeable solutions or outcomes.
+-> Listener : someone who pays attention to other's ideas, thoughts, or concerns during
+	      conversations or discussions.
+-> Coach : Guides and suppoers individuals or teams in achieving their goals, improving 
+	   performance, and enhancing their skills
+-> Working member
+-> Facilitator : Someone who manages group processes, discussions, or meetings to ensure
+		 effective communication, collaboration, and decision making.
+
+MILESTONE VS TASK DURATION
+Milestone -> A milestone is a significant event or achievement in a project that marks a
+key point or completion of a major deliverable.
+Task duration -> Refers to the amount of time it takes to complete a specific task or activity withing a project.
+
+ORGANIZATIONAL STRUCTURES
+-> Functional organizations : Structure that groups staff members according to their area of expertise. Functional 
+structures require the project team members to report directly to the functional manager.
+-> Matrix organizations : There exists three matrix structures, Weak, balanced and strong.
+The different structures are reflective of the project manager's authority in relation to
+the functional manager's authority.
+-> Project oriented organizations : PM has the greatest authority. The project team is assigned to the project full time
+when the project is over, the team members moves on to other assignments within the organization.
+->Hybrid also exists.
+
+PROJECT BOSSES
+-> Sponsor : Can be internal or external, funding the project, makes the decisions
+-> Program manager : Senior to project manager, resolves conflicts in the project.
+
+AREAS OF PROJECT
+-> Scope : Work to be done
+-> Schedule -> time to get the work done
+-> Cost
+-> Quality : Customer staisfaction of work
+-> Resources : Managing the people and material resouces
+-> Communications : Giving stakeholders correct information at the right time.
+-> Risk : Identifying and responding to the risks over the lifecycle of the project.
+-> Procurements : Acquiring resources from outside of project team.
+-> stakeholder's engagement
+
+PROJECT MANAGEMENT OFFICE
+Organizational structure that standardizes the process and facilitates the sharing of resources,
+methodologies, tools and techniques.
+->Supportive : Supports the project manager, such as providing templates, training ot lessons
+learned from other projects.
+-> Controlling : Determines the framework or methodology and use of specific forms
+-> Directive : controls the project, PM will be assignedand report to PMO.
+
+PRODUCT VS PROJECT MANAGEMENT
+-> Product management encompasses the strategic planning, development, and lifecycle management
+of a product or service.
+-> Product managers are responsible for the overall success of the product, aligning it with
+business objectives and customer demands.
+-> Project management focuses on succesful execution and delivery of specific projects within
+a defined scope, timeline, and budget.
+-> Project managers are responsible for planning , coordinating, and manahing the activities
+required to achieve project goals. Ensures project get completed on time, within budget and according
+to the quality standards.
+-> Product managers work closely with project managers to translate the product strategy and roadmap
+into actionable project plans.
+
+RISKS VS ASSUMPTIONS VS ISSUES VS CONSTRAINTS
+-> Risks are potential events or situations that may occur in the future and have an impact on the project's success.
+->Issues refer to the problems or challenges that arise during the course of project. Can hinder progress or impact
+project objectives.
+-> Assumptions are statements or beliefs that are considered to be true or valid for the purpose of planning.
+-> Constraints are limitations or restrictions that affect project planning and execution.
+
+PROJECT CONSTRAINTS
+-> There are six - SSCRQR
+1. Scope
+2. Schedule
+3. Cost
+4. Risk
+5. Quality
+6. Resources
+
+PROJECT MANAGEMENT APPROACHES
+-> There are two approaches : Predictive and Adaptive.
+
+Predictive Approach : 
+
+This follows a linear and sequential process. Involves detailed planning
+and documentation upfront, with a focus on predicting and defining the project scope, objectives, timeline and deliverables. Involves extensive upfront planning, sequential execution, emphasis on control or documentation. Limited flexibility, limited changes with a well defined change control process.
+
+Adaptive Approach :
+
+Focuses on flexibility, collab and iterative development. Embraces change throughout the project and emphasizes continous feedback and improvement. Iterative and incremental development, involves customer collaboration, emphasizes adaptability, involves self-organizing teams. This approach is used commonly in agile methodologies like Scrum or Kanban.
+
+EMOTIONAL INTELLIGENCE
+EQ refers to the ability to recognize, understand and manage emotions, both in oneself and in others. Involves being aware of one's own emotions, effectively handling them, empathizing with others, and using emotions to guide thinking and behavior. EQ plays a significant role in project management.
+
+Eq is important for relationship building, communication and conflict management, motivation and influence, leadership and decision making, stakeholders management.
+
+LEADERSHIP VS MANAGEMENT
+-> Management focuses on tasks, processes and operations to ensure efficient execution. Involves planning, organizing , coordinating and controlling resources. Managers have formal authority and responsibility within the organization. They maintain stability, control, and order, ensuring established processes and procedures are followed. Focus on coordinating and directing tasks, resources, and processes to achieve predetermined objectives. Ensures hat work is completed efficiently. Management focues on immediate goals and operational efficiency. Management aims to maintain stability, implemeting processes and procedures that minimize risks. Managers focus on achieving efficienct and optimizing resources.
+
+-> Leaderships focuses on inspiring and influencing others. Involves setting direction, motivating and empowering individuals. Inspires and influnces others and encourages collaboration, trust and empowerment.
+--------------------------------------------------------------------------------------------
+PROJECT MANAGEMENT PRINCIPLES
+-> There are 12 as per PMBOK
+-> Principles serves as foundational guidelines for strategy, decision making, and problem solving. Professional standards and methodologies are often based on principles. Principles for project management provide guidance for the behavior of people involved in projects.
+
+PMI CODE OF ETHICS AND PROFESSIONAL CONDUCT
+-> Code of ethics is related to morals. Code of ethics can be adopted by an individual or profession to establish expectations for moral conduct. PMI is based on four values, Responsibility, Respect, Fairness and Honesty.
+
+12 PRINCIPLES OF PROJECT MANAGEMENT
+-> Project management principles overlap hugely with general management principles.
+1) Be a diligent, respectful and caring steward
+2) Create a collaborative project team environment
+3) Effectively engage with stakeholders
+4) Focus on value
+5) Recognize, evaluate and respond to system interactions
+6) Demonstrate leadership behaviors
+7) Tailor based on context
+8) Build quality into processes and deliverables 
+9) Navigate complexity
+10) Optimize risk responses
+11) Embrace adaptability and resiliency
+12) Enable change to achieve the envisioned future state
+
+STEWARDSHIP
+-> The act of taking care or managing something.
+-> Stewards act sensibly to carry out actions with integrity, care and trustworthiness while keepin compliance i=with internal and external guidelines.
+-> Demonstrate a broad commitment to financial, social and environmental impacts of the projects they support.
+-> Stewardships has responsibilities with internal and external to company.
+
+TEAM
+-> Create a collaborative project team environment
+-> A collaborative team environment provides :
+	- Alignment ith other organizational cultures and guidelines
+	- Individual and team learning and development
+	- Optimal contributions to deliver desired outcomes.
+-> Project teams will be affected by
+	- Team agreements : represent a set of behavioral parameters
+	- Organizational structures
+	- Processes - Teams define processes that enable completion of tasks and work 		       		      assignments
+-> Transparency on roles and responsibilites can improve team cultures
+-> Let the team have authority to make relevant decisions. Team needs authority withing a given context, to make relevant decisions , establish and improve procedures, etc
+-> Accountability is not shared, it is for whole team 
+-> Responsibility is not shared, it is for whole team
+-> Teams should incorporate practise standards, ethical code and other guidelines as part of professional work withing the project team and the organization. 
+-> a collaborative team environment promotes the free exchange of information and individual knowledge.
+
+STAKEHOLDER
+-> Stakeholders impacts projects, performance, and outcomes.
+-> Stakeholder engagement proactively improves value delivery.
+-> stakeholders can affect many aspects of the projects including scope, requirements, schedule, cost, project team, plans, outcomes, culture, risks, benefits, quality, success and not limited to this!
+-> Project teams are group of stakeholders.
+-> Define how, when and how often and under what situations stakeholders want to be and should be engaged.
+-> Requires interpersonal skills to effecively engage stakeholders
+-> Engagement of stakeholders throughout the project reduces the negative impacts and maximize potential positive impacts.
+
+VALUE
+-> Continually evaluate and adjust project alignment to objectives and intended benefits and values
+-> Value is the ultimate indicator of project success.
+-> Value can be realized throughout the project
+-> Value, and the benefits that contribute to value, can be defined in quantitative and qualitative terms!
+-> Project teams evaluate progress and adapt to maximize the expected value.
+-> Value is subjective.
+-> To support value realization from projects, the project teams should shift focus from deliverables to the intended outcomes. Doing so allows the teams to deliver on the vision or purpose of the project, rather than simply creating a specific deliverable.
+
+SYSTEMS THINKING
+-> A system is a set of interacting and interdependent components that function as a unified whole.
+-> A project is a system of interdependent and interacting domains of activity.
+-> systems thinking entails taking a holistic view of how project parts interact with each other and with external systems.
+-> Project teams should acknowledge this holistic view of a project, seeing the project as a system with its own working parts.
+
+LEADERSHIP
+-> Demonstrate and adapt leadership behaviors to support individual and team needs. Effective leaderships promotes project success and contributes to positive project outcomes.
+-> Anyone in the project team can demonstrate leadership behaviors.
+-> Leadership is different than authority.
+-> On a high-performing project multiple people may exhibit leadership skills, but it is important to remember that more conflict and misunderstanding can emerge when too many participants attempt to employ project influence in multiple, misaligned directions.
+-> Effective leadership promotes project success and contributes to positive project outcomes.
+
+TAILORING BASED ON CONTEXT
+-> Each project is unique.
+-> Design the project development methods based on the needs of the project and it's objectives, stakeholders, governance, and the environment.
+-> Project success is based on adapting to the unique context of the project.
+-> Tailoring the method is iterative and therefore is a continous process throughout the project.
+-> A tailored project approach can produce benefits such as:
+	- Deeper communication from team members.
+	- Reduction in waste in terms of actions or resources.
+	- Customer-oriented focus
+	- More efficient use of project resources.
+
+
+QUALITY
+-> Quality is about meeting the acceptance criteria for deliverables.
+-> Project quality is about satisfying stakeholders expectations and fulfiling project and product requirements.
+-> stakholders will always have to maintain a focus on quality that produces deliverables that meet project objectives and align to the needs setforth.
+-> Project quality ensures processes are appropriate and as effective as possible.
+-> Quality may have several different dimensions, including but not limited to performance, conformity, reliability, resilience, satisfaction, efficiency, sustainability. 
+-> Teams measure quality using metrics and acceptance criterias'.
+
+COMPLEXITY
+-> Complexity is the outcome of human behavior, system interactions, uncertainity and ambiguity.
+-> Complexity can arise at any point during the project.
+-> Constantly evaluate and navigate project complexity so when it approaches the team can succesfully navigate the entire project.
+-> Project teams have to stay vigilant in identifying elements of complexity and use a variety of methods to reduce the amount of impact of complexity.
+-> Project teams often cannot forecast complexity emerging because it is result of many conditions and events.
+
+RISK
+-> A risk is an uncertain event or condition that,if it occurs, can have a poitive or negative effect on one or more objectives.
+-> Risks can be positive or negative.
+-> Constantly evaluate exposure to risk, both opportunities and threats, to maximize positive impacts and minimize negative impacts to the projects and it's outcomes.
+-> Risks are addressed throughout the project.
+-> Risk response should be:
+	- Appropriate for the significance of the risk
+	- Cost effective
+	- Realistic within the project context
+	- agreed to by relevant stakeholder
+-> Project team members engage with relevant stakeholders to understand their risk appetite and risk thresholds.
+-> an organization's risk attitude, appetite, and threshold influence how risk is addressed.
+
+ADAPTABILITY AND RESILIENCE
+-> Adaptability is the ability to respond to changing conditions.
+-> resiliency is the ability to absorb impacts and to recover quickly from a setback or failure.
+-> Build adaptability and resiliency into the organization and project team's approaches.
+-> A project rarely performs exactly as initially planned.
+-> Capabilities tat support adaptability and resilience include:
+	- Short feedback loops to adapt quickly
+	- Continous learning and improvement
+	- Regular inspection and adaptation
+	- Open and transparent planning including stakeholders
+	- Small-scale prototypes and experiments
+	- Open organizational conversations
+	- Diverse project teams 
+	- Understanding from past experiences 
+
+CHANGE
+-> Prepare those impacted for the acceptance to go from current state to the intended future state created by the project output.
+-> A structured approach will help individuals, groups, and the organization transition from current state to future state which is desired.
+-> Attempting too much change in short time can lead to change fatigue and/or resistance.
+--------------------------------------------------------------------------------------------
+				PROJECT MANAGEMENT DOMAINS
+
+PROJECT PERFORMANCE DOMAINS INTRO
+-> Domains are a group of related activities that are critical for the effective delivery of project outcomes.
+-> They are interactive, interrelated and interdependent areas of focus that work in unison to achieve desired project outcomes.
+-> They operate as an integrated system,with each domain being interdependent of the other domains to enable succesful delivery of the project.
+-> Principles guide behavior to domains
+-> There are 8 domains : Stakeholders, teams, design approach, planning, project work, delivery, measurement and uncertainity.
+
+STAKEHOLDER PERFORMANCE DOMAIN
+-> Addresses activities and functions associated with stakeholders.
+-> A productive working relationship with stakeholders throughout the project.
+-> stakeholders agreement with project objectives.
+-> Stakeholders who are project beneficiaries are supportive ans satisfied while stakeholders who may oppose the project or its deliverables do not negatively impact project outcomes.
+-> Defining and sharing a clear vision at the start of the project can enable good relationships and alignment throughout the project.
+-> Chain of effective stakeholder engagement : 
+	Identify - This is done throughout the project 
+	Understand - feelings, emotions, beliefs and values
+	Analyze
+	Prioritize - Focus on stakeholders with most power and interest
+	Engage - Working collaboratively
+	Monitor - Throughout the project, stakeholders will change as new people get added 
+		  and/or others cease to be stakeholders.
+
+TEAM PERFORMANCE DOMAIN
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
