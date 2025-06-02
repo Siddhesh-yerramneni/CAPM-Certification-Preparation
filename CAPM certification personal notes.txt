@@ -326,6 +326,83 @@ STAKEHOLDER PERFORMANCE DOMAIN
 		  and/or others cease to be stakeholders.
 
 TEAM PERFORMANCE DOMAIN
+-> This domain deals with the activities and functions associated with the people who are responsible for creating project deliverables that realize business outcomes. The outcomes include shared ownership, a high performance team and appropriate leadership and other interpersonal skills.
+-> This performance domain entails establishing the culture and environment that enables a collection of diverse individuals to evolve into a high performing project team.
+-> Leadership can be centralized and distributed.
+-> Servant leadership is a method of leadership that is based on the understanding and addressing the needs and development of project team members. Servant leaders place emphasis on developing project team. 
+-> Servant leadership behavior includes 
+	- obstacle removal
+	- diversion shield
+	- Encouragement and development opportunities
+-> Common aspects of team development includes
+	- Vision and objectives : everyone are aware of project vision and objectives
+	- Roles and responsibilities
+	- Project team operations : Facilitationg project team communication, prob solving
+	- Guidance : Ensure everyone are headed in right direction
+	- Growth : Identifying where team is good at and where improvement is needed
+-> Each project team develops it's own culture. Project manager is important in establishing and maintaining a safe, respectful, nonjudgemental environment that allows the team to communicate openly.
+-> Team culture can be accomplished by modelling behaviors such as transparency, integrity, respect, positive discourse, support, courage and celebrating success
+-> High performance project teams have a number of factors that contributes in, such as open communication, shared understanding, shared ownership, trust, collab, adaptability, resilience, empowerment, recognition.
+-> Leadership skills are valuable for all project team members. This includes, establishing and maintaining vision, critical thinking, motivation, interpersonal skills, emotional intelligence, decision making, conflict management.
+-> Leadership methods are also tailored to meet the needs of the project, the environment, and the stakeholders. this can depend on, experience with the type of project, maturity of the project team members, organizational governance structures and distributed project teams.
+
+DEVELOPMENT APPROACH LIFE CYCLE DOMAIN
+-> Deals with activities and functions associated with the development approach, cadence and life cycle phases of the project.
+-> Delivery cadence refers to the timing and frequency of project deliverables.
+-> Outcomes includes : Correct development approaches, A project life cycle that cinnect delivery of business and stakeholder value from the beginning to ending, A project life cycle consisting of phases that facilitate the delivery cadence and development approach required to produce project deliverables.
+-> Projects can have a single delivery, multiple deliveries or periodic deliveries.
+-> A development approach is the means used to create and evolve the product, service, or result during the project life cycle.
+-> There are different dev approaches, three most common are predictive, adaptive and hybrid.
+-> There are several factos that influence the selection of development approach. 
+	Based on product, service or result:
+		- Degree of innovation
+		- Requirements certainity
+		- Scope stability
+		- Ease of change
+		- Delivery options
+		- Risk
+		- Safety requirements
+		- Regulations
+	Based on the project:
+		- Stakeholders
+		- Schedule constraints
+		- funding availability
+	Based on organization
+		- organizational structure
+		- Culture
+		- Organizational capability
+		- Project team size and location
+
+PLANNING PERFORMANCE DOMAIN
+-> Deals with the activities and functions associated with the initial, ongoing, and evolving organization and coordination necessary for delivering project deliverables and outcomes.
+-> The purpose of planning is to proactively develop an approach to create the project deliverables.
+-> Outcomes include:
+	- Project moves in an organized, coordinated and deliberate manner.
+	- A holistic approach exists to providing the project outcomes.
+	- Evolving information is elaborate
+	- time spent in planning is appropriate
+	- planning is sufficient to manage stakeholder expectations.
+	- There is a process for the adaptation of plans.
+-> As every project could be unique, the volume, tming, and frequency of planning varies. Variables include such as development approach, project deliverables, organizational requirements, market conditions, legal or regulatory restrictions
+-> Things to be considered when planning are
+	- Delivery : what is the scope being delivered by the project
+	- Estimating - Scope, schedule, budget or resources including people and physical
+	- Schedules : Models used to determine when work has to be done
+	- Budget : cost 
+-> Planning for how the team will be made begins with identifying the skill sets required to accomplish the project work
+-> Communication planning overlaps with stakeholder identification, analysis, prioritization and engagement.
+
+WORK PERFORMANCE DOMAIN
+
+
+
+
+
+
+
+
+
+
 
 
 
