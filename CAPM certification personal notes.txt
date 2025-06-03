@@ -393,8 +393,61 @@ PLANNING PERFORMANCE DOMAIN
 -> Communication planning overlaps with stakeholder identification, analysis, prioritization and engagement.
 
 WORK PERFORMANCE DOMAIN
+-> Deals with activites and functions associated with establishing project processes, managing physical resources and fostering a learning environment.
+-> Work is connected with establishing the processes and performing the work done by the project team to deliver the expected deliverables and outcomes.
+-> Outcomes of this domain includes:
+	- Efficient and effective project performance.
+	- Project processes are suitable for the project and the env.
+	- Appropriate communication with stakeholders.
+	- Efficient management of physical resources.
+	- Effective management of procurements.
+	- Improved team capability due to continours learning and process improvement.
 
+-> The project manager and the project team establish and periodically review the processes the project team is using to do the work. Process tailoring can be used to optimize the process for the needs of project.
 
+PROJECT DELIVERY DOMAIN	
+-> Deals with activities and functions associated with delivering the scope and quality that the project was undertaken to achieve. 
+-> Project delivery is about meeting requirements, scope, and quality expectations to produce the expected deliverable.
+-> Quality requirements can be reflcted in the completion crtieria, definition of done, statement of work, or requirements documentation.
+
+MEASUREMENT PERFORMANCE DOMAIN	
+-> Deals with activites and functions associated with assessing project performance and taking appropriate actions to maintain acceptable performance.
+-> The outcomes of this domain includes:
+	- A reliable understanding of the status of the project.
+	- Actionable data to enable decision making.
+	- Timely and appropriate actions to keep the project on track.
+	- Achieving targets and generating business value.
+-> This domain evaluates the amount to which the work done in the delivery performance domain is meeting the metrics identified in the planning performance domain.
+-> Measures are used for multiple reasons includes:
+	- Evaluating performance complared to plan
+	- Tracking the utilization of resources
+	- Demonstrating accountability
+	- Providing information to stakeholders
+	- Accessing whether project deliverables are on track.
+	- Ensuring the project deliverables will meet customer acceptance criteria.
+
+-> Creating effective measurements helps to ensure the right things are measured.
+-> Ways to measure performance includes:
+	- KPI : Leading indicators & Lagging indicators
+-> Effective metrics : Use SMART (specific, meaningful, achievable, relevant, timely)
+-> Metrics can be presented using : dashboarding, information radiators and visual controls
+-> Pitfalls associated with measurement includes:
+	- Hawthorne effect
+	- Vanity metric
+	- Demoralization
+	- Missusing the metrics
+	- Confirmation bias
+
+UNCERTAINITY PERFORMANCE DOMAIN
+-> Deals with activities and functions associated with risk and uncertainity.
+-> Effective execution of this performane domain results in the following desired outcomes:
+	- An awareness of the environment in which projects occur.
+	- Proactively exploring and responding to uncertainity
+	- An awareness of the interdependence of multiple variables on project.
+	- The capacity to anticipate threats and opportunities.
+	- Cost and schedule reserves are utilized.
+-> There are many shades to uncertainity. 
+-> ways to respond for uncertainity includes : Gathering information, preparing for multiple outcomes and building resilience.
 
 
 
