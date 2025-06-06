@@ -448,8 +448,48 @@ UNCERTAINITY PERFORMANCE DOMAIN
 	- Cost and schedule reserves are utilized.
 -> There are many shades to uncertainity. 
 -> ways to respond for uncertainity includes : Gathering information, preparing for multiple outcomes and building resilience.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+												PREDICTIVE PROJECT MANAGEMENT
+INTRODUCTION TO PREDICTIVE PROJECT MANAGEMENT
+-> Traditional project is also called as waterfall project management, it is better when the customer needs are well defined, standards to follow are clear and changes are not expected.
 
+PROCESS GROUPS
+-> Initiating : Used to define a project or phase of an exisiting project. Done to authorized the start of the project and assign the project manager.
+-> Planning : Done to establish the scope of the project, define the course of action required to attain the objectives.
+-> Executing : Done to complete the word defined in project management plan.
+-> Monitoring and controlling
+-> Closing : Done formally to complete or close the project, phase or contract.
 
+PROCESSES ITTO
+-> Process : Inputs, outputs and tools/techniques combined to execute a specific purpose on the project.
+	Input : Starting point for the process, the raw materials to begin the execution. 		Could be the output of a previous process.
+	Tools & Techniques : Actions or methods that transforms the raw materials into the 			     output.
+	Output : The end result of our efforts. 
+ 
+ENTERPRISE ENVIRONMENTAL FACTORS
+-> Things that impact the project but are not part of the project itself influence the organization, the project, and it's outcome. It is essential to consider these internal and external factors while planning the project to determine their influence. Can enhance or constrain project management options and may have negative or positive influence on the outcomes.
+-> Internal :Company's organization structure and governance, organization culture, organization's and stakeholder's appetite for risk, organization's established communication channels, information technology software, infra, resource availability, employee capability, geographic distribution of facility and resources.
+-> External : Political climate, govt or industry standards. commercial databases, legal restrictions, financial considerations
+
+ORGANIZATION PROCESS ASSETS - OPA
+-> Organizations have assets such as information, policies, procedures, documents or knowledge bases which are called OPA to help them in achieving their objectives.
+-> Kept in some central repository so that they can be used whenever required.
+-> Examples : Project templates, software tool, historical information, risk control procedures, change control procedures.
+
+PROJECT DOCUMENTS
+-> Project documents are additional documents that are created and used throughout the 49 processes that are not part of the project management plan.
+
+PROJECT MANAGEMENT PLAN
+-> Defines how the project is executed, monitored and controlled and closed
+
+EXPERT JUDGEMENT
+-> Includes hiring an expert or SME to help you to plan a process or conduct a process. 
+
+DATA GATHERING, ANALYSIS, REPRESENTATION AND DECISION MAKING
+-> Data gathering : Brainstorming, interviews, focus groups,checklist, questionnaires and survey
+-> Data analysis : Alternative analysis, Root cause analysis, variance analysis and trend analysis
+-> Data representation : Illustrate different ways that a data could be shown to stakeholders.
+-> Decision making : Voting, multi criteria decision analysis and autocratic decision making
 
 
 
